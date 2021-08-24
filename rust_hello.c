@@ -7,4 +7,4 @@ int rust_hello_example(void)
     rust_hello();
     return 0;
 }
-MSH_CMD_EXPORT(rust_hello_example, rust language hell0 sample)
+MSH_CMD_EXPORT(rust_hello_example, rust language hello sample)
